@@ -1,0 +1,24 @@
+{
+  "short_name": "Schedule",
+  "name": "Schedule App",
+  "description": "Розклад занять",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#141a29",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./assets/image192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/image512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
